@@ -1,0 +1,10 @@
+city1,34,56,67,67,56
+city2,202,100,40,40,23
+1,city1,city2,24,3,ROAD
+city3,150,200,60,80,42
+2,city1,city3,12,1,ROAD
+city4,400,150,90,45,77
+city5,400,270,40,30,90
+3,city2,city5,42,3,ROAD
+4,city5,city4,11,2,ROAD
+5,city1,city5,20,1,ROAD
